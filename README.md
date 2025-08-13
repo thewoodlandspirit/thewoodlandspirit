@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently learning GitHub and Copilot by creating simple AI based web apps such as a profitability analysis for local businesses.
 
 <!--
 **thewoodlandspirit/thewoodlandspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
